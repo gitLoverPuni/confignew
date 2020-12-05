@@ -1,5 +1,8 @@
 {
   "nuovavariabile": "asdad",
-  
-  "vettore": ["vet":"1","vet":"2","vet":"3"]
+  "vettore": [
+    "1",
+    "2",
+    "3"
+  ]
 }
